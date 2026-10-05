@@ -59,9 +59,9 @@ Below is a curated overview of enterprise SaaS LLM platforms, sorted by **Compan
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of top open-source enterprise LLM projects, sorted by **GitHub Stars (Descending)**:
+Below is a curated list of top open-source enterprise LLM projects, sorted by **GitHub_Stars (Descending)**:
 
-| Repository & Description | Stars Badge | Approximate Stars |
+| Repository & Description | Stars_Badge | Approximate Stars |
 | :--- | :--- | :--- |
 | **[LangChain](https://github.com/langchain-ai/langchain)** — **The standard for building LLM-powered applications.** Framework for agentic workflows on LangGraph runtime, durable state execution, streaming, and human-in-the-loop capabilities. | [<img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="LangChain Stars"/>](https://github.com/langchain-ai/langchain/stargazers) | ~110,000 |
 | **[vLLM](https://github.com/vllm-project/vllm)** — **High-throughput LLM inference and serving engine.** Features PagedAttention KV cache management, continuous batching, chunked prefill, and OpenAI-compatible API server for 200+ LLM architectures. | [<img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white" alt="vLLM Stars"/>](https://github.com/vllm-project/vllm/stargazers) | ~77,000 |
@@ -86,7 +86,7 @@ Contributions are welcome and greatly appreciated!
 
 1. Fork the Repository.
 2. Add your SaaS product or Open-Source project to `README.md` keeping the Markdown table format consistent.
-3. Ensure pricing details, free tier terms, and star count badges are accurately provided.
+3. Ensure pricing details, free tier terms, and Stars_Count badges are accurately provided.
 4. Submit a Pull Request (PR) with a clear title and summary.
 
 Check out other awesome lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
